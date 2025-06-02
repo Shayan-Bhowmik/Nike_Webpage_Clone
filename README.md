@@ -4,10 +4,8 @@ A visually appealing, fully responsive **Nike website clone** built using HTML a
 
 ## Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **Font Awesome (Icons)**  
-- **Google Fonts (Inter)**
+- **HTML**
+- **CSS**
 
 ## Features
 
